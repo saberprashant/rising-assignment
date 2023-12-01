@@ -1,0 +1,8 @@
+.start-btn {
+  padding: 16px;
+  border-radius: 4px;
+  background-color: black;
+  color: white;
+  cursor: pointer;
+  font-weight: 500;
+}
